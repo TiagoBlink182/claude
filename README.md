@@ -6,14 +6,14 @@ Landing page do Fudoshin Dojo Karate, com informações sobre as aulas de Karat�
 
 O projeto é estático e não precisa de instalação ou etapa de build:
 
-1. Abra `index (1).html` diretamente no navegador; ou
+1. Abra `index.html` diretamente no navegador; ou
 2. Inicie um servidor local nesta pasta e acesse o endereço indicado por ele.
 
 Mantenha a pasta `imagens` junto do HTML para que as imagens da página sejam carregadas corretamente.
 
 ## Estrutura
 
-- `index (1).html` — estrutura, estilos e interações da página.
+- `index.html` — estrutura, estilos e interações da página.
 - `imagens/cardpromo.png` — imagem promocional da seção de treinos.
 - `imagens/sobresenseilasie.webp` — imagem da seção “Sobre o Fudoshin Dojo”.
 - `imagens/` — demais imagens e logotipos do projeto.
